@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of good works Preached at Feckenham, in the county of Worcester, on Thursday in Whitsun-week, May 17, 1697. at the yearly meeting of the feofees, appointed by Sir Thomas Cookes baronet, to manage the charity given by him, for educating and providing for twelve poor children there, and for maintaining a school-master to instruct them in learning and piety. By John Jephcott, D.D. prebendary of Worcester, and rector of All Saints in the burrough of Evesham.</title>
+            <author>Jephcott, John, 1639 or 40-1713.</author>
+         </titleStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46826</idno><idno type="EEBO-CITATION">99828292</idno>
+  <idno type="VID">32719</idno>
+  <idno type="EEBO-PROQUEST">2240876716</idno>
+  
+            <idno type="STC">Wing J677A</idno>
+            <idno type="STC">ESTC R216565</idno>
+            <idno type="PROQUEST">99828292</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828292e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1950:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of good works Preached at Feckenham, in the county of Worcester, on Thursday in Whitsun-week, May 17, 1697. at the yearly meeting of the feofees, appointed by Sir Thomas Cookes baronet, to manage the charity given by him, for educating and providing for twelve poor children there, and for maintaining a school-master to instruct them in learning and piety. By John Jephcott, D.D. prebendary of Worcester, and rector of All Saints in the burrough of Evesham.</title>
+                  <author>Jephcott, John, 1639 or 40-1713.</author>
+               </titleStmt>
+               <extent>[4], 23, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Jones, bookseller in Worcester; and are to be sold at the Dolphin and Crown in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With four final pages of advertisement.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Education --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32719:1"/>
+            <p>A SERMON OF Good Works.</p>
+            <p>PREACHED At <hi>Feckenham,</hi> in the County of <hi>Worcester,</hi> on <hi>Thursday</hi> in <hi>Whitsun-week, May</hi> 17, 1697. at the Yearly Meeting of the Feofees, appointed by Sir <hi>Thomas Cookes</hi> Baronet, to manage the Charity given by him, for Educating and Providing for Twelve poor Children there, and for Maintain<g ref="char:EOLhyphen"/>ing a School-master to Instruct them in Learning and Piety.</p>
+            <p>By <hi>JOHN JEPHCOTT,</hi> D. D. Prebendary of <hi>Worcester,</hi> and Rector of <hi>All Saints</hi> in the Burrough of <hi>Evesham.</hi>
+            </p>
+            <q>
+               <p>Charity shall cover the multitude of Sins.</p>
+               <bibl>
+                  <hi>1 Pet. 4.8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Jones,</hi> Bookseller in <hi>Worcester;</hi> and are to be Sold at the <hi>Dolphin</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard. 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32719:2"/>
+            <pb facs="tcp:32719:2"/>
+            <head>To the Right Worshipful <hi>Sir Tho. Cookes,</hi> OF <hi>Bently,</hi> in the County of <hi>Worcester,</hi> BARONET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO' I readily complied with your Request in preaching this Sermon, yet I was, for many Reasons, very unwilling to print it, notwithstanding you were pleased, by several very obliging Messages, to desire it. But after long Deliberation and Advice, I adventure to publish, and present it to you, intreating your candid Acceptance. The manner of handling this excellent Subject, is, I confess, very mean and defective, but the Occasion whereon it was preached very noble and commendable. Such large and useful good Works must not be concealed or under<g ref="char:EOLhyphen"/>valued,
+<pb facs="tcp:32719:3"/>but published in the World to the Glory of God, the Encouragement of others, and the due Praise of such worthy Bene<g ref="char:EOLhyphen"/>factors.</p>
+            <p>The good Lord preserve your Life and Pro<g ref="char:EOLhyphen"/>sperity, to rectify and compleat what you may find inconvenient or amiss in your pious and ample Charity both at <hi>Feckenham</hi> and <hi>Bromsgrove,</hi> and also to accomplish your greater Designs for the Publick Good. That these your Good Works may effectually advance the Glory of God, and the Good of Mankind, together with your own deserved Honour in this World, and your eternal Happiness in the World to come, is the hearty Prayer of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <lb/>
+               <signed>Your most humble Servant,<lb/>
+                  <hi>John Jephcott.</hi>
+               </signed>
+               <lb/>
+               <dateline>Evesham, <date>Novemb.<lb/>
+                     <hi>20. 1697.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32719:3"/>
+            <head>A Sermon, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Titus,</hi> ch. <hi>3.</hi> ver. <hi>8.</hi>
+                  </bibl>
+                  <p>This is a faithful saving, and these things I will that thou affirm constantly, that they which have believed in God might be care<g ref="char:EOLhyphen"/>ful to maintain Good Works: these things are good, and profitable unto Men.</p>
+               </q>
+            </epigraph>
+            <p>THE Sum and Business of Christianity is Love and Goodness; its chief and blessed End is to give Glory to God, and restore Happiness to Man: <hi>Life and Immortality is brought to Light through the Gospel.</hi>
+               <note place="margin">2 Tim 2.10.</note> Wherein the blessed Son of God offers Pardon and Peace to the Pe<g ref="char:EOLhyphen"/>nitent, confers Grace and Glory on all Believers; by Faith and Holiness fitting them for Heaven, and by Love and Good Works leading them safe thither. So that this is a faithful Saying, <hi>&amp;c.</hi>
+            </p>
+            <p>Both the Occasion, and the Text invite me to dis<g ref="char:EOLhyphen"/>course of Good Works; wherein shall be consider'd,
+<list>
+                  <item>1. The Nature of Good Works in general.</item>
+                  <item>2. The Imperfection of them. And</item>
+                  <item>3. The Necessity of maintaining them.</item>
+               </list>
+            </p>
+            <pb n="2" facs="tcp:32719:4"/>
+            <p> I.<note place="margin">I.</note> The Nature of Good Works consists in these Particulars, <hi>viz.</hi> the Matter, Principle, End, and Manner of doing them.</p>
+            <p n="1">1. The Matter of them must be warranted by the Law of God, which is the perfect and adequate Rule of Vertue and Goodness: Such Things as are commanded by him are good, and such as are for<g ref="char:EOLhyphen"/>bidden are evil; and those that are neither com<g ref="char:EOLhyphen"/>manded nor forbidden (and so not properly moral Actions) are neither good nor evil, and may either be done or omitted without Sin.: These are as to their Matter indifferent; yet, when done, they are (from the Principle, End and Manner of doing) either good or evil, and must be refer'd to the Glory of God.<note place="margin">1 Cor. 10.31.</note>
+               <hi>Whether ye eat or drink, or whatsoever ye do, do all to the Glory of God.</hi>
+            </p>
+            <p>This Law that constitutes moral Good is exceed<g ref="char:EOLhyphen"/>ing broad, and made known to us both by Reason and Revelation. There is the Law of Nature writ<g ref="char:EOLhyphen"/>ten on the Heart of Man, containing the evident Principles, plain Rules, and indelible Characters of Good and Evil, which God hath imprinted on every rational Creature.</p>
+            <p>Pagans that know not, and those among us that believe not the Holy Scriptures, but despise all re<g ref="char:EOLhyphen"/>vealed Religion, have this natural Law, the Light and Force whereof they cannot extinguish or evade; by which they ought to be ruled, and must be judged; <hi>For as many as have sinned without Law</hi> (<hi>i. e.</hi>
+               <note place="margin">Rom. 2.12.</note> of divine Revelation) <hi>shall perish without Law; and as many as have sinned in the Law, shall be judged by the Law.</hi> Which brings me to the other part of the divine Law, the Holy Scriptures, wherein the Will of God is fully revealed: These contain all Things necessary to believe and practice, that we may obtain eternal
+<pb n="3" facs="tcp:32719:4"/>Life, as our Church teaches.<note place="margin">Acts 6.</note> This Doctrin of the Sufficiency and Perfection of the Scriptures, rightly stated, is the solid Foundation whereon our Church and Reformation is built, and an impregnable Bul<g ref="char:EOLhyphen"/>wark both against Popery and Fanaticism.</p>
+            <p>This divine Law of Nature and Scripture, is the true Rule and Measure of good Works, obliging the whole Man, reaching both Heart and Life, Conscience and Practice, constituting and command<g ref="char:EOLhyphen"/>ing all Acts of Piety, Justice, Truth, Temperance, and Charity, both inward and outward.<note place="margin">Luke 10.27.</note>
+               <hi>Thou shalt love the Lord thy God with all thy Heart, with all thy Soul, with all thy Strength, with all thy Mind, and thy Neighbour as thy self.</hi> This includes the whole Duty of Man, which is not limited only to Acts of Charity and Mercy to our Brethren, but extends to all Piety, Vertue, and Goodness. So that the Poor as well as the Rich are obliged to do good; <hi>We are all his Workmanship in Christ Jesus,</hi>
+               <note place="margin">Eph. 2.10.</note>
+               <hi>created unto Good Works.</hi>
+            </p>
+            <p n="2">2. Gook Works must also proceed from a good Principle. Now the rational Soul is the Principle, whence all humane Actions flow,<note place="margin">Prov. 4.23.</note>
+               <hi>Out of the Heart are the Issues of Life,</hi> which in Man's fallen degene<g ref="char:EOLhyphen"/>rate State is exceedingly weakened and polluted. <hi>By Original Sin Man is very far from God, and srom Original Righteousness, and is of his own Nature in<g ref="char:EOLhyphen"/>clin'd to Evil;</hi>
+               <note place="margin">Acts 9.</note> as our Church teaches from the Scrip<g ref="char:EOLhyphen"/>tures, which say,<note place="margin">Rom. 8.7, 8.</note>
+               <hi>The Carnal Mind is enmity against God, for it is not subject to the Law of God, neither indeed can be:</hi> Hence, <hi>Those that are in the Flesh can<g ref="char:EOLhyphen"/>not please God,</hi>
+               <note place="margin">Luke 6.45.</note>
+               <hi>for out of the evil treasure of the Heart they bring forth that which is evil.</hi> So that the Sinner must be converted to God, the Soul renewed by the Holy Ghost, saving Grace infused into the Heart,
+<pb n="4" facs="tcp:32719:5"/>that he may be capable of doing what is truly Good.</p>
+            <p>Good Works then must proceed from a lively Faith in Christ, and a true Love to God, that being pardoned and reconciled to the Father, implanted into the likeness of the Death and Resurrection of the Son, and Partakers of the Holy Ghost, we may be prepared to every good Work.</p>
+            <p>Habitual Grace in the Soul, and the actual Help of the Holy Spirit,<note place="margin">Phil. 2.13.</note> are necessary to well doing; <hi>For it is God that worketh in us both to will and do of his good pleasure.</hi>
+            </p>
+            <p>Here's the right Principle of good Works, a san<g ref="char:EOLhyphen"/>ctified Soul, an honest and good Heart. Doubtless a wicked Man may do Works that are very good and excellent, commanded of God, and profitable to Men; but yet they come short of saving acceptance with God, and miss the blessed Reward of Eternak Life.<note place="margin">Act. 13.</note> Thus our Church teaches, <hi>That Works done before the Grace of Christ, and the Inspiration of his Spirit, are not pleasant to God, for asmuch as they spring not of Faith in Christ Jesus—Yea rather, for that they are not done as God hath willed and commanded them to be done, we doubt not but they have the Nature of Sin.</hi> Such good Works some have call'd <hi>splendida Peccata,</hi> glittering Sins, mixt Acts, wherein the Evil ex<g ref="char:EOLhyphen"/>ceeds the Good, which being weighed in the Ba<g ref="char:EOLhyphen"/>lance of the Sanctuary, are found too light. We must therefore purisy our Hearts, and cleanse our Hands, that we may do good.</p>
+            <p>Let none presume that the Heart-searching God will be pleased with the Shell and Carkass of Good<g ref="char:EOLhyphen"/>ness, or will accept the Hypocrite, that with his Hands does some Good, while his Heart is removed far from God, and fill'd with Wickedness, <hi>Be not
+<pb n="5" facs="tcp:32719:5"/>deceived, God is not mocked.</hi> Think not,<note place="margin">Gal. 6.7.</note> O impenitent Sinner, to compound with the Almighty for thy Vices, and by some good Deeds to atone for the Wickedness of thy Heart and Life: We must <hi>not halt between two Opinions, we cannot serve two Masters.</hi>
+               <note place="margin">1 Kings 18 21 Mat. 6.24.</note> Be thy Prayers never so fervent, thy Fasts never so oft and long, thy Alms never so large and beneficial, yet without Faith and Holiness all's lost: <hi>For tho' I give all my Goods to feed the Poor,</hi>
+               <note place="margin">1 Cor. 13.3.</note>
+               <hi>and give my Body to be burnt and have not Charity,</hi> (<hi>i. e.</hi> the true love of God, and my Neighbour) <hi>it profiteth me nothing.</hi>
+            </p>
+            <p>Let us therefore heartily repent, and approve our selves to God in stedfast Faith and servent Love, in<g ref="char:EOLhyphen"/>ward Holiness and unisorm Obedience, that we may be, and do good, to the Glory of God, and our own Happiness; which leads to the next Particular neces<g ref="char:EOLhyphen"/>sary to good Works.</p>
+            <p>A good End, this, and the former make a good Man. A good frame and a good design, are the good Treasure of the Heart; hereby Man is like God in his imitable Attributes, and moral Perfecti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Now the great and ultimate End of all our Actions, is the glory of God; hither all ought to be refer'd; hereon our Eye and Heart must be fix'd, lest Selfishness, Pride and vain Glory, marr our good Works, and rob us of our Reward in Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Our blessed Saviour, gives an excellent Caution about Alms, Prayers and Fasts,<note place="margin">Mat. 6.1.15.16.</note> (applicable to all good Works) <hi>Not to do them before Men, to be seen of them:</hi> The Fault is not meerly to do them before Men; for Publick good Works are a Duty, which in some Cases cannot, in other ought not to be conceal'd; <hi>For our Light must shine before Men,</hi>
+               <note place="margin">Mat. 5.16.</note>
+               <pb n="6" facs="tcp:32719:6"/>
+               <hi>that they may see our good Works,</hi> &amp;c. But the fault is to do them, <hi>to be seen of them</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to act as Men on a Stage or Theatre, to be observ'd and applauded only, or chiefly to seek our selves, our own Honour or Advantage.</p>
+            <p>There are several Ends of the same Action, which may lawfully be proposed and pursued, as the good of our Brethren, to succour some, and excite others to Charity, and our own Good, Temporal and Spiri<g ref="char:EOLhyphen"/>tual; but these must be subordinate to the supreme end of all, the Glory of God, a sincere aim at which, an habitual good Intention is necessary to a good Work.</p>
+            <p>But these Two last, <hi>(viz.)</hi> The Temper and De<g ref="char:EOLhyphen"/>sign of the Heart, are inward, and hidden from the World, known to God only, who searches and re<g ref="char:EOLhyphen"/>quires the Heart: Therefore avoid Hypocrisie, ap<g ref="char:EOLhyphen"/>prove thy self in Sincerity to God; also avoid Pride and Envy; censure not the good Works of others, on pretence of their Hypocrisie, and secret Wicked<g ref="char:EOLhyphen"/>ness; but Rejoyce, and give Glory to God for the good Works of any; charitably hope they are from a good Heart, and to a right End, and heartily pray they may be Accepted and Rewarded.</p>
+            <p>Lastly, Good Works must be done in a right Man<g ref="char:EOLhyphen"/>ner.</p>
+            <p n="1">1. In Righteousness: Charity must be bounded with Justice;<note place="margin">Isaiah 16.8.</note> we must give our own, for <hi>God hates Robbery for burnt Offerings.</hi>
+            </p>
+            <p n="2">2. With chearfulness and readiness of Mind, vi<g ref="char:EOLhyphen"/>gour and joy of Heart; this make them Easie and Pleasant to us, and acceptable both to God and Man.<note place="margin">Eccles. 9.10.</note>
+               <hi>What good therefore thy hand findeth thee to do, do it with all thy might; for there is no good</hi> In them (or for the Children of Men), <hi>but for a Man to re<g ref="char:EOLhyphen"/>joyce,
+<pb n="7" facs="tcp:32719:6"/>and to do good in his life;</hi>
+               <note place="margin">Eccles. 3.12. Isaiah 64.5.</note> for God <hi>meeteth him that rejoyceth and worketh Righteousness.</hi>
+            </p>
+            <p n="3">3. But especially in the Name of the Lord Jesus, the only Mediator between God and Man; from and through whom all saving Grace is conferred on us, and our good Works presented to, and accepted with God. <hi>Whatever,</hi> therefore,<note place="margin">Colos. 3.17.</note>
+               <hi>we do in word or aced, we must do all in the Name of the Lord Jesus.</hi> By his Authority and Command, do as he bids us, to his Glory; referring all to him, and by his Grace, both for Assistance and Acceptance;<note place="margin">Jo. 1.16.</note>
+               <hi>Of his fulness we all receive, and grace for grace.</hi>
+            </p>
+            <p>Thus I have consider'd the Nature of good Works, and therein proposed the right Method of weldoing. A good Matter, Principle, End and Manner of do<g ref="char:EOLhyphen"/>ing, are necessary to constitute any Action truly Good. <hi>Bonum est, ex causis integris,</hi> &amp;c. the want of any of them makes it Evil; nor can the abun<g ref="char:EOLhyphen"/>dance of one, supply the Defects of the rest. Be the Act (as to its Matter) never so good, if the Mind and End be naught, it becomes Evil; and be the Mind and Purpose never so pure and right, yet if the Matter be unwarrantable, the Act is Sinful. A bad Principle or End, corrupt the best Action; but a good Heart and Intent, cannot justify a bad one. Nay, tho' Matter, Heart and End be all good, yet if our Works be not done in a right Manner, espe<g ref="char:EOLhyphen"/>cially in the Name of Jesus Christ, (if not sprinkled with his Blood) they fall short of Evangelical good<g ref="char:EOLhyphen"/>ness, and Saving acceptance.</p>
+            <p>Now, if we consider these Things aright, and thereupon impartially Examine, and exactly Measure our selves by this perfect Law of God; we shall find, and must confess our Selves very Sinful, and
+<pb n="8" facs="tcp:32719:7"/>our best Works very Imperfect; which is the Se<g ref="char:EOLhyphen"/>cond Thing to be consider'd.</p>
+            <p>II.<note place="margin">II.</note> The Imperfection of good Works: They fall short of exact and full conformity to the Divine Law, which is absolutely pure and perfect; com<g ref="char:EOLhyphen"/>manding all sorts, and the highest degrees of Good<g ref="char:EOLhyphen"/>ness that humane Nature is capable of in a state of Perfection, which we cannot attain in this World, wherein <hi>the Flesh lusteth against the Spirit,</hi>
+               <note place="margin">Gaiat. 5.17.</note> &amp;c. We justly reject therefore the Proud, and false Doctrin of the <hi>Romanists,</hi> who make void the Law of God to establish their own Traditions;<note place="margin">Belar. de Ju<g ref="char:EOLhyphen"/>seifi. <hi>Lib. 4. Cap. 11.</hi>
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>44. <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 5.</hi>
+               </note> teaching that <hi>the Commands of God may be easily kept, and with small pains;</hi> and that <hi>any Act of Charity, tho' remiss, is sussicient to fulfill all the Precepts.</hi> Behold the Pride and Folly of Man! lessening God, that he may exale him<g ref="char:EOLhyphen"/>self; limitting the Divine Law, to ensarge his own goodness; depressing his Duty, that he may ad<g ref="char:EOLhyphen"/>vance <hi>Supererogation</hi> and his own <hi>M<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rits;</hi> but we have not so learned Christ, who enables us to do good Works; which tho' faulty, according to the Rigour of the Law, yet according to the Tenour and Manifold Grace of the Gospel; are accepted and rewarded.</p>
+            <p>Alas! we not only fail in our best Works, but omit much Good, and do much Evil; so that we must with the <hi>Publican stand a far off, and sinite on our Breasts, saying, The Lord be Merciful to us Sin<g ref="char:EOLhyphen"/>ners.</hi> The best cannot perfectly obey the Will of God, much less Supererogate or Merit.</p>
+            <p>Not <hi>Supererogate, i. e.</hi> do more, better, and more excellent Works than God hath commanded; for the goodness of any Work consists in its conformity with God's Law; so that what is not commanded, cannot be better than what is.</p>
+            <pb n="9" facs="tcp:32719:7"/>
+            <p> Love is the Root and Sum of our Duty, the Fruits whereof are many; we have several ways of expressing our Love to God and our Neighbour, in which we are bound to do the most and best we can. God proposes all sorts of good Works to us, that we may chuse the best and fittest for our Cir<g ref="char:EOLhyphen"/>cumstances and End.</p>
+            <p>Thus far we admit <hi>Evangelical Councils,</hi> (but the Poison wrapt up in these innocent Words, must be avoided) for which end the Particulars wherein these <hi>Councils</hi> are said to consist, shall be considered. As First, We are commanded to keep our selves chast and pure in Soul and Body; but whether Married or Single, is at our Liberty, in either State we may perform our Duty. Celibacy (in fit Persons that have the Gist of Continency) affords more Oppor<g ref="char:EOLhyphen"/>tunities, and hath fewer Impediments ordinarily to Love and good Works, and is therefore commended to us; <hi>He that can receive it, let him receive it,</hi>
+               <note place="margin">Mat. 19.12.</note> but not impos'd on us; we are left to chuse which State is best for us, wherein we may most promote the Glory and Service of God; but a single Life is inferiour to Purity and Charity.</p>
+            <p>We must <hi>lone our Neighbour as our selves,</hi>
+               <note place="margin">Gal. 6.10.</note>
+               <hi>do good to all as we have opportunity,</hi>
+               <note place="margin">Prov. 3.10.</note>
+               <hi>and honour the Lord with our Substance, and with the first Fruits of all our En<g ref="char:EOLhyphen"/>crease:</hi> But since no one Person can do all the out<g ref="char:EOLhyphen"/>ward Acts of Charity and Mercy; therefore we ought to chose, and do the best we can. If we have much, we must give plenteously; if but little, we must do our Diligence gladly to give of that little. We are not ordinarily bound to this or that particular Act of Charity, <hi>Singularia non cadunt sub Arte, nec sub Lege;</hi> but we are bound to use our utmost skill and zeal in well doing; nor is this a Work of Super<g ref="char:EOLhyphen"/>erogation,
+<pb n="10" facs="tcp:32719:8"/>erogation, excelling the Righteousness of God's Law, but a Work of Discretion subservient to it, a means and instance of our Love to God, and our Brethren. As to voluntary Poverty, quitting all to live Idely on the Labour of others; this is not a Perfection, but a Fault; such Beggars deserve Correction, not Encouragement;<note place="margin">8 Thessa. 3.10.</note>
+               <hi>He that will not Labour, let him not Eat.</hi>
+            </p>
+            <p>In extraordinary Cases, where the glory of God is immediately concern'd, when the pressing Wants of the Church and Poor call for it, when the Safety and Salvation of our Souls require it, we must part with all as the Primitive Christians did; <hi>He that forsaketh not all that he hath</hi> (in Heart always,<note place="margin">Luk. 14.33.</note> in Act when thus call'd) <hi>cannot be Christ's Disciple.</hi> The Case of the Rich Man in the Gospel,<note place="margin">Matth. 19.21.</note> whom Christ bids <hi>Sell all, and give to the Poor,</hi> &amp;c. reaches not others, but is a particular Command to him only, for discovery of his Pride and Hypocrisie, prescribed as a specifick Medicine to cure his Covetousness. As to Monastick Obedience, nothing need be said, for it's both absurd and unchristian, having no Foun<g ref="char:EOLhyphen"/>dation in Reason or Scripture.</p>
+            <p>The Particulars then of vowed Celibacy, Poverty, and regular Obedience, whereon the Papists lay so great a stress, wherein they place so much Holiness, Perfection and Merits, are inferior to Charity, and without it nothing worth; being at the best but either a State and Means of doing more good, as Celibacy: Or a Duty in extraordinary Cases, as quitting our Estates, when they cannot be kept with a good Conscience (as Men throw their Goods over<g ref="char:EOLhyphen"/>board in a Storm to save their Lives,) or else bru<g ref="char:EOLhyphen"/>tish and dangerous, as their absolute blind Obedi<g ref="char:EOLhyphen"/>ence. Each of these, instead of making Men ber<g ref="char:EOLhyphen"/>ter,
+<pb n="11" facs="tcp:32719:8"/>are oft abused to make them worse, to cover and noutish Hypocrisie and Vice: When under a Vow of Cellbacy, they burn with Lust, and wal<g ref="char:EOLhyphen"/>low in Lewdness, under a pretenoe of Poverty, they live in Idleness and Riot: And under colour of Monkish Obedience, they despise Parents, resist Ma<g ref="char:EOLhyphen"/>gistrates, corrupt and disturb the Church of God. Such are doubtless the most imperfect Christians, nay, the worst of Men; such Works are so far from pleasing God, that they highly provoke him,<note place="margin">Isaias 1.12.</note> who will say to such <hi>Who hath required these things at your Hands?</hi> These are followers of their <hi>Benedict, Do<g ref="char:EOLhyphen"/>minick, Francis,</hi> or <hi>Ignatius,</hi> but not of the Blessed Jesus, who will profess to such at the Day of Judg<g ref="char:EOLhyphen"/>ment, <hi>I never knew you,</hi>
+               <note place="margin">Matth. 7.23.</note>
+               <hi>depart from me ye Workers of Iniquity.</hi>
+            </p>
+            <p>Our Churches Doctrine shall conclude this Point, <hi>Voluntary Works,</hi>
+               <note place="margin">Act. 14.</note>
+               <hi>besides over and above Ged's Com<g ref="char:EOLhyphen"/>mandements, which they call Works of Supererogation, cannot be taught without Arrogancy and Impiety.</hi>
+            </p>
+            <p>Neither can we <hi>Merit</hi> at the Hand of God; but it's not the word <hi>Merit,</hi> nor the Ecclesiastical tho' improper use of it, that we oppose, but the new and abominable Doctvin of the <hi>Romish</hi> Church, the <hi>Merit of Condignity,</hi> Works to whom, in equality of Justice, eternal Life is due; Works commensurate to the Reward, even to a natural Proportion, as several of their eminent<note n="*" place="margin">Coster. Enchir. cap. 7. Bellar. de Ju<g ref="char:EOLhyphen"/>stific. lib. 5. cap. 17. Suarez de Gratia, lib. 12. cap. 1. n. 18. Vasques in Sam. Secund-Dispu. 214. cap. 5. Rhem. on 2 Tim. 4.8. &amp; alibe. Grammach. in Sam. Se<g ref="char:EOLhyphen"/>cund. qu. 114. Aug Reding. Defens. con<g ref="char:EOLhyphen"/>cil. Trid.</note> Schoolmen and Divines teach, and is own'd to be the fense of the<note n="†" place="margin">Conc. Trid. Sess. 6. Canon 32.</note> Council of <hi>Trent</hi> in her Canon; <hi>Ijoany Man say, That good works do not truly merit increase of Grace and eternal Life, let him be accursed.</hi> This we reject and abhor, as corrupting the Faith, poisoning Men's Souls, and giving their Priests an undue Dominion over their Consciences and Purses.</p>
+            <pb n="12" facs="tcp:32719:9"/>
+            <p> This proud wicked Doctrin, that exalts vain Man,<note place="margin">Ferus in Ec<g ref="char:EOLhyphen"/>cles. 4. &amp; alibi.</note> that lessens the Grace of God, and excludes (yea as <hi>Ferus</hi> says, blasphemes) the Merits of our Redeemer, we justly condemn.</p>
+            <p>For whatever Good we can do, is our bounden Duty, and but a part of what we owe to our God and Saviour, whom we can never requite; what can we render to the Lord for all his Benefits? Alas! we can pay but a few Pence for Ten thousand Talents. Yea,<note place="margin">Luke 17.10.</note>
+               <hi>when we have done all, we are unprofitable Ser<g ref="char:EOLhyphen"/>vants,</hi> &amp;c. Nay further, the best fall exceeding short of their Duty,<note place="margin">James 3.2.</note>
+               <hi>in many things we offend all.</hi> This sad Truth, both Scripture and Experience plainly teach, the Faults and Confessions of the most eminent Saints are recorded, the pious Fathers of the Christian Church humbly acknowledge and bewail their Sins. Yea, the Council of <hi>Trent,</hi> that decrees for Merits in the same Session,<note place="margin">Con Trid. Ses<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6.</note> confesses, <hi>That in this mortal Life, the just and holy sometimes fall, at least into light and daily Sins.</hi>
+               <note place="margin">P. Adrian 6. de Sacra. Euch. f. 61.</note> And the Head of their Church declares, <hi>That our Merits are a broken reed, that pierce the hand of him that leans upon them; they are a menstruous Cloth, and our best actions mixt with Impurities,</hi> &amp;c.</p>
+            <p>That Man must be grossly ignorant, both of the extent and spiritual Sense of God's Law, and of his own Heart and Ways, that can dream of his Perfe<g ref="char:EOLhyphen"/>ction, he neither knows God, nor himself that dare boast of his Merits.</p>
+            <p>Moreover, whatever good we do is by the Grace of God in Jesus Christ, without whom we can do nothing.<note place="margin">1 Cor. 15 <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> St. <hi>Paul</hi> having said, <hi>I laboured more abun<g ref="char:EOLhyphen"/>dantly than they all;</hi> least he should be mistaken, and his Words perverted to countenance Pride and Vain<g ref="char:EOLhyphen"/>glory, he corrects himself, or rather instructs us by adding <hi>Yet not I, but the Grace of God that was with me.</hi>
+            </p>
+            <pb n="13" facs="tcp:32719:9"/>
+            <p> The more good we do, the more we are in<g ref="char:EOLhyphen"/>debted to God for his help, not he to us;<note place="margin">Psal. 115.1.</note>
+               <hi>Not therefore unto us, but unto his Name we give the Glory,</hi> who crowneth not our Merits, but his own Gifts.</p>
+            <p>Which Crown is <hi>also a Reward of Grace,</hi>
+               <note place="margin">Rom. 4.4.</note>
+               <hi>not of Debt; the Gift of God,</hi>
+               <note place="margin">Rom. 6.23.</note>
+               <hi>is eternal Life through Je<g ref="char:EOLhyphen"/>sus Christ our Lord,</hi> who comforts us, saying;<note place="margin">Luke 12.32.</note>
+               <hi>Fear not little Flock, it is your Father's good pleasure to give you a Kingdom. Not then by the Works of Righteous<g ref="char:EOLhyphen"/>ness,</hi>
+               <note place="margin">Titus 3.5.</note>
+               <hi>that we have done, but of his Mercy he saveth us;</hi> which Mercy is most manifested in Heaven, where <hi>He is glorified in his Saints,</hi>
+               <note place="margin">2 Thes. 1.10.</note>
+               <hi>and admir'd in all them that believe.</hi>
+            </p>
+            <p>What hath been said, fully refutes this pernicious Doctrin of Man's Merits; which some of the Je<g ref="char:EOLhyphen"/>suits, tho' great Champions for Popery, were well aware of, and therefore either disclaim Merits as <hi>Salmeron,</hi> who advises, That <hi>altho' one be Just,</hi>
+               <note place="margin">Salme. Tom. 7. Tract. 33. n. 20.</note>
+               <hi>Per<g ref="char:EOLhyphen"/>fect or Holy, he must not trust in his Works; for our Righteousnesses are uncertain, not pure, but mix'd with many Spots,</hi> &amp;c.</p>
+            <p>Or after a long Dispute for them, fairly give up the Cause, as <hi>Bellarmine</hi> with his <hi>Tutissimum est,</hi>
+               <note place="margin">Bellar. de Ju<g ref="char:EOLhyphen"/>ftifi. Tom. 4. Lib. 5. C. 7.</note> &amp;c. <hi>i. e. It is safest by reason of the uncertainty of our own Righ<g ref="char:EOLhyphen"/>teousness, and the danger of vain Glory, to repose all our confidence in the sole Mercy and Goodness of God.</hi>
+            </p>
+            <p>Or (to prevent boasting of them) teach as <hi>Coster</hi> doth,<note place="margin">Coster Ench. C. 7.</note>
+               <hi>That a just Man cannot tell whether he Merits or not.</hi>
+            </p>
+            <p>Having clear'd the Doctrin of good Work, from Popish Errors; I proceed to vindicate our Church and Nation, from their spiteful Calumnies, who falsly charge us with the want, neglect and dis<g ref="char:EOLhyphen"/>couraging
+<pb n="14" facs="tcp:32719:10"/>of good Works.<note place="margin">Mat. 11.13.</note>
+               <hi>But Wisdom is justified of her Children.</hi>
+            </p>
+            <p>We live, I confess, in a very degenerate and licen<g ref="char:EOLhyphen"/>tious Age wherein <hi>Iniquity abounds,</hi>
+               <note place="margin">Mat. 24.12.</note>
+               <hi>and the Love of many waxes cold;</hi>
+               <note place="margin">Phil. 3.18.</note> wherein <hi>many walk as Enemies of the Cross of Christ, whose God is their Belly, whose Glory is in their Shame, who mind Earthly Things:</hi> So that we have great cause to be deeply humbled before God, and to abhor our selves in Dust and Ashes. Yet to the glory of his Grace, we thankfully ac<g ref="char:EOLhyphen"/>knowledge, there is much good Wheat on the Floor among the Chaff; we have multitudes full of Faith and of good Works, eminent for Piety. Justice, Temperance and Charity, the Lord increase them an hundred Fold; nor hath the Reformation hindred, but highly promoted Piety and Charity in this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>The Learned Bishop <hi>Andrews</hi> above an hundred Years since,<note place="margin">A Sermon at S. <hi>Mery</hi>'s Hospital, on <hi>Wednesday</hi> in <hi>Easter</hi> Week, <hi>April</hi> 10th <hi>A. D.</hi> 1588. P. 17.</note> tells us, <hi>That Learning in the foundation of Schools, and encrease of Revenues within Colleges; the Poor in the foundation of Alms-Houses, and encrease of Perpetuities to them, have received greater Help in this Realm, within these forty Years last past, since the Reformation, then it hath in any Realm Christian, not only in the same time, but in any forty Years upwards, during all the time of Popery.</hi>
+            </p>
+            <p>Nor grow we weary of well doing; for with<g ref="char:EOLhyphen"/>in these last thirty seven Years, since the Restora<g ref="char:EOLhyphen"/>tion of King <hi>Charles</hi> II. (tho' God hath visited us with dreadful Judgments of Pestilence, Fires and Wars, whereby we have been sore oppressed) yet praised be the Lord, there have been more excel<g ref="char:EOLhyphen"/>lent and useful good Works done in this Kingdom, more Churches built, repaired, endowed, augment<g ref="char:EOLhyphen"/>ed; more Schools, Hospitals, Alms-Houses, Corpo<g ref="char:EOLhyphen"/>rations
+<pb n="15" facs="tcp:32719:10"/>and Companies for Charity erocted and en<g ref="char:EOLhyphen"/>dowed; more Alms distributed, more publick last<g ref="char:EOLhyphen"/>ing Monuments of Piety and Charity, than in the same space at any Time, within this Realm, under Popery.</p>
+            <p>So that while we refute the <hi>Romish</hi> Errors, and a<g ref="char:EOLhyphen"/>handon their ill Methods, yet both in Doctrin and Practice, we are careful to maintain good Works; which is the last Thing to be consider'd.</p>
+            <p>III. Let us maintain good Works,<note place="margin">III.</note> for they are indispensably necessary, Effects of saving Faith, whence they flow as Streams from a Fountain, or Light from the Sun; Faith worketh by Love, it purifies the Heart, and brings forth the peaceable Fruits of Righteousness.</p>
+            <p>The <hi>Fruits of the Spirit, are Love, Peace, Joy,</hi>
+               <note place="margin">Gal. 5.22.</note>
+               <hi>long Sufferings, Gentleness, Goodness,</hi> &amp;c. To shew Pity and Mercy, is a prime Dictate of the Law of Na<g ref="char:EOLhyphen"/>ture; this made the Philosopher prosess that his Trade was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be, and to do good; Love and Goodness are so deeply engraven on the Soul of Man, that whoever razes them out, defaces the Image of God, puts of Humanlty, and becomes Bruit or Devil.</p>
+            <p>Good Works are expresly commanded in sacred Writ, whose Precepts are so srequent and plain, that those that run may read them. The only Thing that the chief Apostles, at <hi>Jerusalein,</hi> com<g ref="char:EOLhyphen"/>mended to <hi>Paul</hi> and <hi>Barnabas,</hi>
+               <note place="margin">Gal. 2.10.</note> was to <hi>Remember the Poor,</hi> which they were forward to do. Yea, the primitive Christians,<note place="margin">Acts 4.32.</note> sold their Possessions to relieve their poor Brethren; and that none might want, they had all Things common: Nor did they only part with their Estates, but were ready to lay down their Lives for each other.</p>
+            <pb n="16" facs="tcp:32719:11"/>
+            <p> How many, and unhappy, soever our Differences and Disputes about Religion are, yet the Lord be praised, all acknowledge, That we ought to love God, and our Neighbour; to serve God, and do good to each other. This is the sum of both Testa<g ref="char:EOLhyphen"/>ments, the Great Command of the Law, and the New Command of the Gospel: Our Religion, our God, and Saviour is Love; this brought the Eternal Son of God from Heaven to redeem us, both his Life, and death was Love: he went about doing Good, healing Men's Bodies, that he might save their Souls.</p>
+            <p>The multitude of his Miracles that confirm'd his Divine Mission, and attested the Truth of his saving Doctrin, were Acts of the greatest kindness to afflicted Men, and not only establish our Faith, but excite our Charity,<note place="margin">Heb. 13.16.</note>
+               <hi>That the same Mind might be in us that was in Christ Jesus to</hi> do good, which is highly acceptable to God, <hi>with such Sacrifices he is pleased.</hi>
+            </p>
+            <p>
+               <hi>Cornelius his Alms,</hi>
+               <note place="margin">Acts 10.4.</note> as well as his Prayers, <hi>came up for a Memorial before God;</hi>
+               <note place="margin">Philip 4.18.</note> and the religious Cha<g ref="char:EOLhyphen"/>rity of the <hi>Philippians</hi> to St. <hi>Paul,</hi> was <hi>an Odour of a sweet smell well pleasing to God.</hi>
+            </p>
+            <p>Tho' his infinite Majesty need nor us vile Wretches, nor any of our Services; his perfect Blessedness depends not on his Creatures, and can neither be augmented by their Goodness, nor di<g ref="char:EOLhyphen"/>minished by their Wickedness: Yet he is delighted with our Obedience, and accounts the kindness we do our poor Brethren done to himself, <hi>For as much as ye have done it to the least of these,</hi>
+               <note place="margin">Mat. 25.40.</note>
+               <hi>ye have done it unto me.</hi>
+            </p>
+            <p>To shew Mercy to the Poor is our greatest Ho<g ref="char:EOLhyphen"/>nour; herein we are like unto God,<note place="margin">Psal. 145.16.</note>
+               <hi>Who opens
+<pb n="17" facs="tcp:32719:11"/>his Hand, and fills all things living with Plenteous<g ref="char:EOLhyphen"/>ness.</hi> The Rich are honourably imploy'd as Almo<g ref="char:EOLhyphen"/>ners and Stewards of the Sovereign Lord of all the World, by <hi>his goodness to provide for the Poor:</hi> The Divine Providence gives them Wealth and Oppor<g ref="char:EOLhyphen"/>tunities, and his Grace gives them Hearts to do good, wherein they are the happy Instruments of fulfilling God's Promises. <hi>The Poor committeth himself to God,</hi>
+               <note place="margin">Psal. 10.14.</note> who sendeth him to the Rich for Relief, saying, as <hi>Pharoah</hi>'s Daughter did to <hi>Moses</hi> Mother, <hi>Take this Child and nurse it for me, and I will give thee Wa<g ref="char:EOLhyphen"/>ges:</hi>
+               <note place="margin">Exod. 2.9.</note> Take these poor People, Feed, Cloath, Edu<g ref="char:EOLhyphen"/>cate, employ them for me, and I will give thee Wages; what thou bestowest on the Poor put on my account, I'll repay thee.<note place="margin">Deut. 15.11.</note> These <hi>we have ever with us,</hi> and they come in God's Name to borrow of us, who condescends to be their Security.<note place="margin">Prov. 19 17.</note>
+               <hi>He that hath Pity on the Poor lendeth unto the Lord, and that which he hath given he will pay him again: He therefore that hath this Worlds good, and seeth his Brother have need,</hi>
+               <note place="margin">1 Joh. 3.13.</note>
+               <hi>and shutteth up his Bowels of Compassion from him,</hi> neither the Faith, <hi>nor love of God dwells in him;</hi> and how vile a Miscreant is he that neither believes nor loves God? Moreover, our Relation to each other, both as Men, and Christians, should enlarge our Charity; we have the same Farther, the same Re<g ref="char:EOLhyphen"/>deemer, the same Faith, the same Hope, and should therefore have the same fervent Charity. The poor<g ref="char:EOLhyphen"/>est Beggar cloath'd with Rags, and fed with Crumbs that lies at the Rich Man's Gate, or on the Dunghil, is thy Brother, and perhaps in equal or greater fa<g ref="char:EOLhyphen"/>vour with God than the most wealthy Gallant. Hearken therefore ye Rich Men that neglect and oppress the Needy, what St. <hi>James</hi> saith,<note place="margin">James 2.5.</note>
+               <hi>God hath chosen the Poor of this World rich in Faith, and Heirs
+<pb n="18" facs="tcp:32719:12"/>of the Kingdom, which he hath promised to them that love him.</hi> There is great force in the Apostles words,<note place="margin">Heb. 13.3.</note>
+               <hi>Remember them that are in Adversity, as being your selves in the Body,</hi> as Members of each other, and so under the strongest Obligations both of Na<g ref="char:EOLhyphen"/>ture and Grace, to afford mutual Pity and Succour, <hi>Hide not thy self from thy own Flesh.</hi>
+               <note place="margin">Isa. 58.7.</note>
+            </p>
+            <p>And as subject to the same, or greater Miseries, Proud foolish Man is too apt to boast, and trust in the multitude of his Riches, to say in his Pro<g ref="char:EOLhyphen"/>sperity he shall never be moved; but God can quickly shift the Scene, and change the brightest Prosperity into the darkest Sorrows and Distress, of which both sacred and profane Story affords a<g ref="char:EOLhyphen"/>bundance of dismal Examples. God brought <hi>Job</hi> to the Dunghil, <hi>Nobuchadnezzar</hi> to eat Grass as Oxen, <hi>Darius</hi> to puddle Water, <hi>Bajazet</hi> into an Iron Cage,<note place="margin">Psal. 76.12.</note>
+               <hi>&amp;c. He refraineth the Spirit of Princes, &amp;c.</hi> When therefore thou beholdest thy poor Bro<g ref="char:EOLhyphen"/>ther Hungry and Naked, Friendless and Helpless, harden not thy Heart against him, but look on such sad Objects with Piety and Charity, Thanks to God, and Relief to them. Let the Rich be as ready to give, as the Poor to receive; and the more they increase, the greater their Distress, the more let our Charity abound towards them.</p>
+            <p>This God expresly enjoyn'd the <hi>Jews, The Poor shall never cease out of the Land,</hi>
+               <note place="margin">Dent. 15.11.</note>
+               <hi>therefore I command thee to open thine Hand wide unto thy Brother, to thy Poor, and to thy Needy in thy Land.</hi>
+            </p>
+            <p>This also is very pleasant and delightful, love is the Life and joy of the Soul, the Perfection and glory of Man; there's no greater Satisfaction in the World, than doing good, without which, a Man loses his Time, and lives to none, or ill purpose,
+<pb n="19" facs="tcp:32719:12"/>
+               <hi>He is dead while he liveth.</hi>
+               <note place="margin">Isa. 38.2.</note> It was not King <hi>Hezechiah</hi>'s Wealth and Grandeur, but his Goodness that sup<g ref="char:EOLhyphen"/>ported his fainting Spirits in his Sickness, and en<g ref="char:EOLhyphen"/>courag'd him to pray for Recovery, and prevail. The good Advice that <hi>Daniel</hi> gave that great King <hi>Nebuchadnezzar</hi> for <hi>lengthning his Tranquility,</hi>
+               <note place="margin">Dan. 4.27.</note>
+               <hi>was to break off his Sins by Righteousness, and his Iniquities by shewing Mercy to the Poor.</hi> When abused Plenty loads and drowns the Epicure; when Riches fill the worldlings Heart with anxious Thoughts to keep and encrease them, with Grief to leave, and Horror to account for them; then the Charitable good Man is fill'd with Peace and Hope, he reflects with Com<g ref="char:EOLhyphen"/>fort on his good Deeds, and rejoyces that <hi>he hath made to himself Friends with the Mammon of Ʋnrigh<g ref="char:EOLhyphen"/>teousness;</hi> he then finds by happy Experience,<note place="margin">Acts 20.35.</note>
+               <hi>It is more blessed to give, then to receive.</hi>
+            </p>
+            <p>
+               <hi>These things are good and profitable unto Men.</hi> Cha<g ref="char:EOLhyphen"/>rity is an effectual Course to advance the Publick Good, to make any Nation flourish; it's the credit and support of Religion, the proof and ornament of our Faith; good Men and good Works, are the Pillars of Church and State; the Chariots of <hi>Is<g ref="char:EOLhyphen"/>rael</hi> and the Horsemen thereof, the strength and beauty of a Kingdom; without these, the World would become a Wilderness, or an <hi>Aceldama.</hi> And God be praised, this Nation is supported and adorn<g ref="char:EOLhyphen"/>ed with many excellent and lasting Monuments of pious and useful Charity, whereof this<note n="*" place="margin">At Stour<g ref="char:EOLhyphen"/>bridge, Wor<g ref="char:EOLhyphen"/>cester, Wych, Bromsgrove, Fickenham. See the Ad<g ref="char:EOLhyphen"/>vertisement.</note> Country hath its share.</p>
+            <p>It hath ever been the Method of divine Providence to bless the Charitable; thus God dealt with <hi>Israel,</hi> whom he presses to lend and give to their poor Brethren; <hi>Because for this thing,</hi>
+               <note place="margin">Deut. 15.10.</note>
+               <hi>he would bless them in all their Works:</hi> And tho' Gospel-promises and
+<pb n="20" facs="tcp:32719:13"/>Blessings are more Spiritual, and so much better, yet the Charitable have many Temporal Promises, and receive many Temporal Blessings: God ever delights in the Prosperity of his Servants, and plen<g ref="char:EOLhyphen"/>teously rewardeth the Merciful in this World, so far as tends to his Glory, and their eternal Hap<g ref="char:EOLhyphen"/>piness; they shall prosper as their Soul prosper<g ref="char:EOLhyphen"/>eth, and further Prosperity is not a Blessing but a Curse. Whatever any unbelieving Worldling may object to the contrary, this is certain, That never any was Impoverish'd by Charity; for God says, <hi>He that giveth to the Poor,</hi>
+               <note place="margin">Pro. 28.27.11.25.</note>
+               <hi>shall not lack, and the liberal Soul shall be made Fat,</hi> &amp;c.</p>
+            <p>To this purpose, the Example of the Widow of <hi>Zarephath</hi> is very remarkable,<note place="margin">1 Kings 17.13.</note> whose kindness to the hungry Prophet, making him <hi>First</hi> a Cake of her last handful of Meal, when her Self and Son were ready to Famish, procur'd a miraculous In<g ref="char:EOLhyphen"/>crease to maintain her Self and Family,<note place="margin">Munster. in Loc. Strigilius</note> (for one Year say some, for three Years say others) till God sent Plenty. <hi>The blessing of God maketh rich.</hi>
+            </p>
+            <p>Lastly, By good Works, we obtain a glorious Reward, <hi>We lay up in store a good Foundation against the time to come, that we may lay hold on eternal Life;</hi> and with a little perishing Wealth, we purchase for our selves an everlasting Inheritance.</p>
+            <p>Tho' great and weal<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y Men have many dangerous Temptations to Pride, Sensuality, Oppression and Cruelty; yet they have great Advantages of Com<g ref="char:EOLhyphen"/>forts in this World, (if their Vices do not Imbitter and Poison them) and for securing their eternal Hap<g ref="char:EOLhyphen"/>piness in the World to come, if they Feed the Hung<g ref="char:EOLhyphen"/>ry, Cloath the Naked, Visit the Sick, and Minister to the Afflicted; then will the King set them on his right Hand,<note place="margin">Mat. 25.34.</note> and say, <hi>Come ye blessed of my Father,
+<pb n="21" facs="tcp:32719:13"/>inherit the Kingdom prepared for you from the Foun<g ref="char:EOLhyphen"/>dation of the World.</hi>
+            </p>
+            <p>Who then that owns a God, and a Providence will neglect well doing? Who that believes the Holy Scriptures, that regards the Precepts, Promises and Threats thereof, will be uncharitable? Who that acknowledges the Immortality of the Soul, and the Resurrection of the Body, that consesses a future Judgment, and eternal Rewards and Punish<g ref="char:EOLhyphen"/>ments, but will <hi>lay up for himself Treasures in Hea<g ref="char:EOLhyphen"/>ven,</hi>
+               <note place="margin">Matt. 6.20.</note> will do all the Good he can,<note place="margin">Matt. 25.46.</note>
+               <hi>that he may go into Eternal Life?</hi>
+            </p>
+            <p>To which end, Pride, Sensuality, and Covetouf<g ref="char:EOLhyphen"/>ness, must be avoided, which swallow up all, and leave nothing for God, and the Poor, by these Vi<g ref="char:EOLhyphen"/>ces, God and Religion are despised, Justice and Charity trampled under foot, Debts unpaid, Te<g ref="char:EOLhyphen"/>nants Rackt, the Poor Starv'd, and the precious Souls of such proud Epicures and Misers eternally ruin'd. Let all therefore learn to deny themselves, that they may enlarge their Alms; a prudent useful Charity will be an honour and support to a Family, feeding the Hungry more pleasing to God than most sumptuous Feasting, and cloathing the Naked a bet<g ref="char:EOLhyphen"/>ter Ornament than the finest and richest Habit. A good Man will learn Humility, and Frugality, to advance Charity; he will spend less in Superfluities, that he may give more to Pious and Charitable Uses; <hi>He is merciful and lendeth,</hi>
+               <note place="margin">Psal. 112.5.</note>
+               <hi>he will guide his Af<g ref="char:EOLhyphen"/>fairs with discretion,</hi> choosing the most proper Ob<g ref="char:EOLhyphen"/>jects, Methods and Seasons of good Works, thereby inhansing their value, and rendring them more wel<g ref="char:EOLhyphen"/>come, beautiful, and useful.</p>
+            <p>And on this occasion, I presume to commend unto those whom God hath blessed with large E<g ref="char:EOLhyphen"/>states,
+<pb n="22" facs="tcp:32719:14"/>and charitable Hearts, that most prudent and pious Work of Educating Poor Children in Religion, Learning, Vertue, and Labour (after the Example of that <hi>Worthy Gentleman,</hi> who hath ap<g ref="char:EOLhyphen"/>pointed this Yearly Meeting <hi>Here,</hi>
+               <note place="margin">See the Ad<g ref="char:EOLhyphen"/>vertisement.</note> and another at <hi>Bromsgrove</hi>) that by God's Blessing they may live comfortably, and do service in the World: This would be a most effectual way to take off the Re<g ref="char:EOLhyphen"/>proach and Burthen of this Nation's Poverty and Vice, which are the sad effects of ill Education and Idleness. And further, such good Works would be more lasting and successful, if done (after the fore<g ref="char:EOLhyphen"/>mentioned Heroick Pattern) in the Life-time of the Benefactor.</p>
+            <p>A Man's own Hands are the best Executors, and his own Eyes the best Overseers of his Charity, that what's wanting may be supply'd, what's amiss re<g ref="char:EOLhyphen"/>ctify'd, and what would overthrow or defeat the good Ends thereof, prevented or remov'd by the Founder. Such good Works are seldom perfected, and well setled at once; and Posthumous Charity, through want of Integrity, Skill, or Care in the Trustees and Managers, is too oft lost, or becomes trivial and unuseful.</p>
+            <p>We must also be careful to maintain the good Works of others, against the ill Tongues and ill Hands of wicked Men.</p>
+            <p>Against the ill Tongues of Envious Worldlings, that cruelly, disdainfully and despitfully speak against the Righteous, and their good Deeds, scornfully shooting out their poisonous Arrows, even bitter Words; and when the Work is too bright and firm to be sullied, or wounded with Malice and Lies, then they boldly claim the divine Prerogative of searching the Heart, and unwarrantably censure the
+<pb n="23" facs="tcp:32719:14"/>Pride and Wickedness of the Donor, rashly accusing him of Hypocrisie and vain Glory, and foolishly endeavour by such spiteful Cavils to justifie their own Uncharitableness.</p>
+            <p>We are all bound to be zealous Advocates for God, his Church, and the Poor, against a malicious and covetous Generation.</p>
+            <p>And against ill Hands also, that no Charity be em<g ref="char:EOLhyphen"/>bezzelled or lost, that the Church, the Poor, the Publick, may not be wronged, nor any Charitable Gifts of our Pious Ancestors swallowed up by Sa<g ref="char:EOLhyphen"/>crilegious greedy Worldlings.</p>
+            <p>Our Laws have herein made very good Provision by a Commission for charitable Uses,<note place="margin">43 Eliz cap. 4.</note> and this Country hath lately found the benefit thereof in a prudent and faithful Execution. Further, all that are concern'd as <hi>Feofees,</hi> for management of publick Charities, must be careful to maintain them with uprightness and dili<g ref="char:EOLhyphen"/>gence, avoiding Sloth and Selfishness, which will ruin the most noble and useful Foundations: Sloth suffers them to decay, and Selfishness pulls them down; this <hi>Solomon</hi> observes, telling us,<note place="margin">Eccles. 10.18.</note>
+               <hi>That by much Sloth<g ref="char:EOLhyphen"/>fulness the Building decayeth, and through idleness of the Hands the House droppeth through,</hi>
+               <note place="margin">cap. 9.18.</note> and <hi>one</hi> selfish <hi>Sinner destroyeth much good.</hi>
+            </p>
+            <p>A publick Spirit, wing'd with Zeal, and arm'd with Integrity, is the most effectual Means to preserve and advance Charity. To conclude, let all that be<g ref="char:EOLhyphen"/>lieve in God be careful to maintain good Works; as we have ability and opportunity let us <hi>do Good</hi> to all, from a <hi>right Principle,</hi> to a <hi>good End,</hi> and in <hi>a right Manner,</hi> that so <hi>by patient continuance in well doing, seeking for Glory and Immortality, we may obtain Eternal Life,</hi> through Jesus Christ our Lord; to whom with the Father, and the Holy Ghost be ascribed all Glory, Praise, Dominion, Thanksgiving, and Obedience for ever and ever. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="notice_of_charitable_establishment">
+            <pb facs="tcp:32719:15"/>
+            <head>An Advertisement.</head>
+            <p>SIR <hi>Thomas Cookes</hi> of <hi>Bently,</hi> in the County of <hi>Worcester</hi> Baronet, hath built at <hi>Broomsgrove</hi> in the same County, a large and convenient School-house, with a very good dwelling House for a School Master. And by Deed bearing date <hi>June</hi> 22. 1693. settled on Feofees 50 <hi>l. per An.</hi> for ever, freed from all Taxes and Payments, for the said School in this manner, <hi>viz.</hi> 20. <hi>l. per An.</hi> to a School Master, nominat<g ref="char:EOLhyphen"/>ed by Sir <hi>Thomas</hi> and his Heirs, and Licensed by the Bishop of <hi>Worcester,</hi> to instruct 12 poor Boys in Learning and Re<g ref="char:EOLhyphen"/>ligion, as establish'd in the Church of <hi>England,</hi> to be ad<g ref="char:EOLhyphen"/>mitted into the School between 9 and a 11 Years old, and continue at School 6 Years at least; 16 <hi>l. per An.</hi> to buy them Cloaths, <hi>viz.</hi> Blew Coats, Caps, <hi>&amp;c.</hi> 10 <hi>s. per An.</hi> to buy them Books; 10 <hi>s. per An.</hi> for Prayers and a Sermon at <hi>Bromsgrove</hi> Church on the 1st of <hi>May,</hi> when the Feofees are to meet for managing the said Charity, and 1 <hi>l.</hi> for their Entertainment yearly on that day; and the 12 <hi>l.</hi> remain<g ref="char:EOLhyphen"/>ing, to be kept as a Stock for placing out the said Boys Ap<g ref="char:EOLhyphen"/>prentices, not allowing to any one Boy above 12 <hi>l.</hi> ap<g ref="char:EOLhyphen"/>pointing excellent Rules for the good ordering of the whole Affair.</p>
+            <p>He also gives the present School Master 20 <hi>l.</hi> more <hi>per An.</hi> for Preaching a Sermon every Lord's day in the After<g ref="char:EOLhyphen"/>noon at <hi>Tardebig,</hi> Sir <hi>Thomas</hi>'s Parish-Church, two Miles from <hi>Bromsgrove;</hi> and further, he gives 10 <hi>l. per An.</hi> to an Usher in the said School.</p>
+            <p>He hath likewise by Deed, dated about the 24 of <hi>March,</hi> 1695. setled on Feofees 50 <hi>l. per An.</hi> for ever, freed from all Taxes and Payments, for a School at <hi>Feckenham</hi> in the said County, appointing a School Master and 12 poor Boys, with the same Allowances, in the same Manner, and under the same Rules, with <hi>Bromsgrove</hi> formention'd, only fix<g ref="char:EOLhyphen"/>ing <hi>Thursday</hi> in <hi>Whitsun</hi>-week, for the Yearly Meeting of the Feofees at <hi>Feckenham.</hi>
+            </p>
+            <q>
+               <p>The Lord make them Prosper.</p>
+               <bibl>Luke <hi>10.37.</hi>
+               </bibl>
+            </q>
+            <p>Go, and do thou likewise.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32719:15"/>
+            <head>Books printed for, and sold by <hi>John Jones,</hi> at the <hi>Dolphin</hi> and <hi>Crown</hi> in Saint <hi>Paul</hi>'s Church-yard.</head>
+            <p>EIght Chirurgical Treatises, on these following Heads, <hi>viz.</hi> 1. Of Tumours. 2. Of Ulcers. 3. Of Diseases of the <hi>Anus.</hi> 4. Of the King's Evil. 5. Of Wounds 6. Of Gun shot Wounds. 7. Of Fractures and Luxations. 8. Of the <gap reason="illegible: blotted" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>. By <hi>Richard Wiseman,</hi> Serjeant Chirurgeon to King <hi>Charles</hi> the Second. The Third Edition. Fol.</p>
+            <p>The General History of <hi>England,</hi> both Ecclesi<g ref="char:EOLhyphen"/>astical and Civil, from the earliest <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Time, to the Reign of his present Majesty King <hi>William</hi> III. Taken from the most ancient Records, Manuscripts, and printed Historians, with Memorials of the most eminent Persons in Church and State, at also, the Foundations of the most noted Monasteries and both Universities Vol. I. By <hi>James Ty<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ell,</hi> Esq; Fol.</p>
+            <p>Treatises upon several Subjects, <hi>viz.</hi> Reason and Religion, or the Grounds and Measures of Devo<g ref="char:EOLhyphen"/>tion. Reflections upon the Conduct of Human Life. The Charge of Schism continued. Two Treatises concerning Divine Light. Spiritual Coun<g ref="char:EOLhyphen"/>sel, or, the Fathers Advice to his Children. Written by <hi>John Norris,</hi> M. A. Rector of <hi>Bemerton</hi> near <hi>Sarum.</hi> Octavo.</p>
+            <pb facs="tcp:32719:16"/>
+            <p> Practical Discourses upon several Divine Subjects, <hi>viz.</hi> Of Religious Discourse in common Conver<g ref="char:EOLhyphen"/>sation. Of the Fear of Death. Concerning the Ex<g ref="char:EOLhyphen"/>tent of Christ's Satisfaction. Concerning practical Atheism. Of walking by Faith. Concerning Cha<g ref="char:EOLhyphen"/>rity to the Poor. Concerning the right Use of the World. Concerning the successive Vanity of Hu<g ref="char:EOLhyphen"/>man Life.—An Admonion concerning two late Books, called, <hi>A Discourse of the Love of God.</hi> Vol. IV. Written by <hi>John Norris,</hi> M.A. Rector of <hi>Bemerton</hi> near <hi>Sarum.</hi> Octavo.</p>
+            <p>
+               <hi>Ars Chyrurgica,</hi> or a Compendium of the Theory and Practice of <hi>Chyrurgery,</hi> in 7 Books. Containing 1. The Instruments and Operations of the Art. 2. The Removal of Defilements. 3. The Cure of Tumors. 4. The Cure of Wounds. 5. The Cure of Uicers. 6. The Cure of Fractures. 7. The Cure of Dislo<g ref="char:EOLhyphen"/>cations Shewing the Names, Causes, Signs, Diffe<g ref="char:EOLhyphen"/>rences, Prognossticks, and various Intentions of Curing all kind of Chirurgick Diseases, from Head to <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Human Bodies. To which is added, <hi>Pharma<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>peia Chyrurgica,</hi> or, The Medical Store, in Latin and English, which contains an ab<g ref="char:EOLhyphen"/>solute Sett of choice Preparations or Medicaments, fitted for the complete and universal Practice both of <hi>Physick</hi> and <hi>Chyrurgery.</hi> The whole Work <hi>Ga<g ref="char:EOLhyphen"/>lenically</hi> and <hi>Chymically</hi> performed; the like yet never published in any Language whatsoever, By <hi>William Sal<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> M. D. living at the Great House by <hi>Black-Friers-Stairs, London</hi> Octavo.</p>
+            <p>Poems upon several Occasions. By <hi>Daniel Baker,</hi> M. A. sometimes of <hi>Gonvil</hi> and <hi>Caius</hi> College in <hi>Cambridge.</hi> Octavo.</p>
+            <pb facs="tcp:32719:16"/>
+            <p> Reform'd Devotions, in Meditations, Hymns and Petitions, for every Day in the Week, and every Holyday in the Year. Divided into Two Parts. The Fourth Edition, Corrected. Twelves.</p>
+            <p>The present State of the Universe, or an Account of 1. The Rise, Births, Names, Matches, Children, and near Allies of all the present chief Princes of the World. 2. Their Coats of Arms, Motto's, De<g ref="char:EOLhyphen"/>vices, Liveries, Religions and Languages. 3. The Names of their chief Towns, with some Computa<g ref="char:EOLhyphen"/>ons of the Houses and Inhabitants, their chief Seats of Pleasure, and other remarkable Things in their Dominions. 4. Their Revenues, Power and Strength. Also an Account of Common-wealths, relating to the same Heads. The second Edition much amended and enlarged, with the Addition of the Styles or Titles of the several Potentates and Republicks. Twelves.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
